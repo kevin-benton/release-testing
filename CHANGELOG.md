@@ -1,3 +1,10 @@
+# [1.1.0-alpha.1](https://github.com/kevin-benton/release-testing/compare/v1.0.3-alpha.2...v1.1.0-alpha.1) (2022-03-30)
+
+
+### Features
+
+* **hpa:** enables autoscaling ([792e1d1](https://github.com/kevin-benton/release-testing/commit/792e1d1b247f9b769b2499e59571f07fdba8ab45))
+
 ## [1.0.3-alpha.2](https://github.com/kevin-benton/release-testing/compare/v1.0.3-alpha.1...v1.0.3-alpha.2) (2022-03-30)
 
 
