@@ -12,10 +12,9 @@
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     [
-      "semantic-release-helm",
+      "semantic-release-helm-oci",
       {
-        "chartPath": ".",
-        "onlyUpdateVersion": true
+        "skipAppVersion": true
       }
     ],
     [
