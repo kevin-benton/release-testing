@@ -1,3 +1,10 @@
+## [1.0.3-alpha.1](https://github.com/kevin-benton/release-testing/compare/v1.0.2...v1.0.3-alpha.1) (2022-03-30)
+
+
+### Performance Improvements
+
+* **deployment:** sets replicas to 4 ([76b375b](https://github.com/kevin-benton/release-testing/commit/76b375b7f5234cf1ada1f1bb86681780046588a9))
+
 ## [1.0.2](https://github.com/kevin-benton/release-testing/compare/v1.0.1...v1.0.2) (2022-03-30)
 
 
