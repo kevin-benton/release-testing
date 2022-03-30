@@ -18,6 +18,8 @@
 ### Features
 
 * **hpa:** enables autoscaling ([792e1d1](https://github.com/kevin-benton/release-testing/commit/792e1d1b247f9b769b2499e59571f07fdba8ab45))
+* **deployment:** bump replicas to 5 ([600f137](https://github.com/kevin-benton/release-testing/commit/600f137a7f9ddc9ce5019369d00829666b6ca333))
+* **deployment:** sets replicas to 4 ([76b375b](https://github.com/kevin-benton/release-testing/commit/76b375b7f5234cf1ada1f1bb86681780046588a9))
 
 ## [1.0.3-alpha.2](https://github.com/kevin-benton/release-testing/compare/v1.0.3-alpha.1...v1.0.3-alpha.2) (2022-03-30)
 
