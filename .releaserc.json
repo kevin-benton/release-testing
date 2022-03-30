@@ -12,16 +12,16 @@
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     [
-      "semantic-release-helm",
+      "@eshepelyuk/semantic-release-helm-oci",
       {
-        "chartPath": ".",
-        "onlyUpdateVersion": true
+        "registry": "oci://stjudecloudtemp.azurecr.io/helm/krb",
+        "skipAppVersion": true
       }
     ],
     [
       "@semantic-release/git",
       {
-        "assets": ["CHANGELOG.md", "Chart.yaml"]
+        "assets": ["CHANGELOG.md"]
       }
     ],
 
