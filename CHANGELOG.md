@@ -1,15 +1,10 @@
-# [1.1.0](https://github.com/kevin-benton/release-testing/compare/v1.0.3...v1.1.0) (2022-03-30)
+# [1.2.0-alpha.1](https://github.com/kevin-benton/release-testing/compare/v1.1.0...v1.2.0-alpha.1) (2022-03-30)
 
 
 ### Features
 
-* **deployment:** enabling linkerd ([98f6e5b](https://github.com/kevin-benton/release-testing/commit/98f6e5b5052593feb2305ce5514bbf9bff06ca89))
-* **hpa:** enables autoscaling ([792e1d1](https://github.com/kevin-benton/release-testing/commit/792e1d1b247f9b769b2499e59571f07fdba8ab45))
-
-
-### Performance Improvements
-
-* **hpa:** use at least 2 replicas ([3992d5f](https://github.com/kevin-benton/release-testing/commit/3992d5f4c618399fa46009947058b9816f50753d))
+* **chart:** adds dependency for testing ([473548f](https://github.com/kevin-benton/release-testing/commit/473548f7ac7a66f6ed994183d768599ef67449a7))
+* **ingress:** enable ingress ([62a978d](https://github.com/kevin-benton/release-testing/commit/62a978d2039847a14df84f27799491844b8771ac))
 
 # [1.1.0-alpha.3](https://github.com/kevin-benton/release-testing/compare/v1.1.0-alpha.2...v1.1.0-alpha.3) (2022-03-30)
 
