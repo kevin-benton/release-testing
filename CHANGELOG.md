@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/kevin-benton/release-testing/compare/v1.2.0...v1.2.1) (2022-03-30)
+
+
+### Bug Fixes
+
+* **hpa:** reduce max replicas ([04d94dd](https://github.com/kevin-benton/release-testing/commit/04d94ddcb497bdb608ec65cd3b54f82c6d6f1f93))
+
 # [1.2.0](https://github.com/kevin-benton/release-testing/compare/v1.1.0...v1.2.0) (2022-03-30)
 
 
