@@ -1,11 +1,3 @@
-# [1.1.0-alpha.4](https://github.com/kevin-benton/release-testing/compare/v1.1.0-alpha.3...v1.1.0-alpha.4) (2022-03-30)
-
-
-### Features
-
-* **chart:** adds dependency for testing ([473548f](https://github.com/kevin-benton/release-testing/commit/473548f7ac7a66f6ed994183d768599ef67449a7))
-* **ingress:** enable ingress ([62a978d](https://github.com/kevin-benton/release-testing/commit/62a978d2039847a14df84f27799491844b8771ac))
-
 # [1.1.0-alpha.3](https://github.com/kevin-benton/release-testing/compare/v1.1.0-alpha.2...v1.1.0-alpha.3) (2022-03-30)
 
 
