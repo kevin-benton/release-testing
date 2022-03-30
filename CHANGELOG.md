@@ -1,3 +1,10 @@
+# [1.1.0-alpha.3](https://github.com/kevin-benton/release-testing/compare/v1.1.0-alpha.2...v1.1.0-alpha.3) (2022-03-30)
+
+
+### Features
+
+* **deployment:** enabling linkerd ([98f6e5b](https://github.com/kevin-benton/release-testing/commit/98f6e5b5052593feb2305ce5514bbf9bff06ca89))
+
 # [1.1.0-alpha.2](https://github.com/kevin-benton/release-testing/compare/v1.1.0-alpha.1...v1.1.0-alpha.2) (2022-03-30)
 
 
