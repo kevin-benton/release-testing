@@ -36,6 +36,10 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 'lts/*'
+      - uses: azure/setup-helm@v1
+        name: Setup Helm
+        with:
+          version: 3.8.1
       - name: Install dependencies
         run: npm i -g semantic-release @semantic-release/git @semantic-release/changelog @semantic-release/error @eshepelyuk/semantic-release-helm-oci -D
       - name: Release
