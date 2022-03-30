@@ -1,3 +1,10 @@
+# [1.1.0-alpha.2](https://github.com/kevin-benton/release-testing/compare/v1.1.0-alpha.1...v1.1.0-alpha.2) (2022-03-30)
+
+
+### Performance Improvements
+
+* **hpa:** use at least 2 replicas ([3992d5f](https://github.com/kevin-benton/release-testing/commit/3992d5f4c618399fa46009947058b9816f50753d))
+
 # [1.1.0-alpha.1](https://github.com/kevin-benton/release-testing/compare/v1.0.3-alpha.2...v1.1.0-alpha.1) (2022-03-30)
 
 
