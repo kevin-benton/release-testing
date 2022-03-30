@@ -40,6 +40,17 @@ jobs:
         name: Setup Helm
         with:
           version: 3.8.1
+      - name: Update Helm Dependencies
+        run: |
+          helm repo add bitnami https://charts.bitnami.com/bitnami
+          helm dependency build
+      - name: Unpack Helm Dependencies
+        run: |
+          for FILE in charts/*.tgz
+          do
+            tar zxf $FILE --directory charts
+            rm $FILE
+          done
       - name: Install dependencies
         run: npm i -g semantic-release @semantic-release/git @semantic-release/changelog @semantic-release/error @eshepelyuk/semantic-release-helm-oci -D
       - name: Release
