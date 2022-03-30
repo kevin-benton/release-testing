@@ -14,6 +14,7 @@
     [
       "@eshepelyuk/semantic-release-helm-oci",
       {
+        "registry": "oci://stjudecloudtemp.azurecr.io/helm/krb",
         "skipAppVersion": true
       }
     ],

@@ -45,4 +45,6 @@ jobs:
           GIT_AUTHOR_EMAIL: krbenton@icloud.com
           GIT_COMMITTER_NAME: Kevin Benton
           GIT_COMMITTER_EMAIL: krbenton@icloud.com
+          REGISTRY_USERNAME: ${{ secrets.REGISTRY_USERNAME }}
+          REGISTRY_PASSWORD: ${{ secrets.REGISTRY_PASSWORD }}
         run: semantic-release
